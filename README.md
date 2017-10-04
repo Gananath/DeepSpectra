@@ -13,3 +13,4 @@ The idea is to find spatial or temporal features (if any) from the sequence data
 - Sklearn
 
 *In future I may try to add other techniques to classify this data*
+ ;
