@@ -10,5 +10,6 @@ The idea is to find spatial or temporal features (if any) from the sequence data
 - Python 2.7
 - Keras with TensorFlow  backend
 - Pandas
+- Sklearn
 
 *In future I may try to add other techniques to classify this data*
